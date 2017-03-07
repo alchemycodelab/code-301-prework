@@ -6,7 +6,7 @@
 
 If you haven't already, install [VSCode](https://code.visualstudio.com/). If you have used an advanced text editor like Sublime Text, or Atom, then VSCode will feel familiar to you. VSCode is free, open-source, cross-platform, and has a wide array of useful plug-ins available. Please use VSCode during Code 301. (If you are proficient with another text editor that you *love*, you may use that instead, but please note that your instructional team may not be able to assist with debugging any issues with your editor)
 
-[VSCode's documentation](https://code.visualstudio.com/docs) is top-notch. Review it now to familiarize yourself with the basics. Make sure you're looking at the docs for the latest version. If you find that you are unable to call `code` in the terminal, you can enable shell commands through VSCOde by first opening it through your graphical desktop interface, and typeing `CMD + SHIFT + P`, and then type Shell Commands and selecting `Shell Command: Install 'code' in command in PATH` in the drop-down menu.
+[VSCode's documentation](https://code.visualstudio.com/docs) is top-notch. Review it now to familiarize yourself with the basics. Make sure you're looking at the docs for the latest version. If you find that you are unable to call `code` in the terminal, you can enable shell commands through VSCOde by first opening it through your graphical desktop interface, and typeing `CMD + SHIFT + P` (or `CTRL + SHIFT + P` on Windows/Linux), and then type Shell Commands and selecting `Shell Command: Install 'code' in command in PATH` in the drop-down menu.
 
 ## Install Ryver (if you haven't already)
 
