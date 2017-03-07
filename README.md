@@ -90,25 +90,13 @@ Linting is the process of running a program that will analyze code for potential
 
 That means the linter is your friend! It will help you write syntactically correct code, so you can catch errors in your text editor, rather than having to hop over the browser, refresh your page, and search for errors. Faster feedback makes for happier developers (that's you!).
 
-## Install linter and linter-eslint Atom packages
+## Install linter and linter-eslint vscode extensions
 
-For this next part, you will have Atom's package manager **apm** install some packages. Go [here](https://atom.io/docs/v0.194.0/using-atom-atom-packages#command-line) to verify it's enabled. Once you have verified that apm commands will work, enter this on your Terminal:
+In VSCode, chose the extension icon in the lefthand toolbar(or `View > Extensions` from the menu). Search for "ESLint" and click install.
 
-`apm install linter linter-eslint`
+It will prompt you to restart to load the extension. If you check afterwards, it should show the extension in the default installed list.
 
-You should get two success messages while it installs the linter and linter-eslint packages.
-
-### Verify the Atom packages installation
-
-Enter the following into your Terminal:
-
-`apm ls`  
-You should get back a long list, and at the end you should receive a list of packages you installed for Atom.   
-Linter and linter-eslint should be on that list, like in this screen shot:
-
- ![screen shot 2016-05-28 at 11 33 31 pm](https://cloud.githubusercontent.com/assets/12869788/15631728/a816191c-252c-11e6-8cb4-5c757f240a50.png)
-
- ----
+----
 
 ## Install PostgreSQL Database Software
 *Please note that if you have a previously installed version of PostgreSQL on any operating system, you should be aware of any username and password that you've set for that installation. If you're unsure please uninstall and reinstall a fresh copy, which will also install the latest stable version.*
