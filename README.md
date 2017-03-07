@@ -2,11 +2,21 @@
 
 ## Computer Setup
 
-## Install Atom
+## Install VSCODE
 
-If you haven't already, install [Atom](https://atom.io). If you have used an advanced text editor like Sublime Text, then Atom will feel familiar to you. Atom is free, open-source, cross-platform, and has a wide array of useful plug-ins available. Please use Atom during Code 301. (If you are proficient with another text editor that you *love*, you may use that instead, but please note that your instructional team may not be able to assist with debugging any issues with your editor)
+If you haven't already, install [VSCode](https://code.visualstudio.com/). If you have used an advanced text editor like Sublime Text, or Atom, then VSCode will feel familiar to you. VSCode is free, open-source, cross-platform, and has a wide array of useful plug-ins available. Please use VSCode during Code 301. (If you are proficient with another text editor that you *love*, you may use that instead, but please note that your instructional team may not be able to assist with debugging any issues with your editor)
 
-[Atom's documentation](https://atom.io/docs/latest) is top-notch. Review it now to familiarize yourself with the basics. Make sure you're looking at the docs for the latest version. If you find that you are unable to call atom in the terminal, you may need to enable shell commands through Atom by first opening it through your graphical desktop interface, and selecting `Install Shell Commands` in the drop-down menu.
+[VSCode's documentation](https://code.visualstudio.com/docs) is top-notch. Review it now to familiarize yourself with the basics. Make sure you're looking at the docs for the latest version. If you find that you are unable to call `code` in the terminal, you can enable shell commands through VSCOde by first opening it through your graphical desktop interface, and typeing `CMD + SHIFT + P`, and then type Shell Commands and selecting `Shell Command: Install 'code' in command in PATH` in the drop-down menu.
+
+## Install Ryver (if you haven't already)
+
+We use an app called Ryver to share resources, chat, make announcements and collaborate. 
+
+You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app:
+
+[Ryver Downloads](ryver.com/downloads/).
+
+Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
 
 ----
 
