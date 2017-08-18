@@ -147,7 +147,7 @@ When you installed PostgreSQL, the installer also installed some extra tools. On
 
 **If you are having issues with the installation, please contact your instructor.**
 
-### ☐ Linux
+#### Linux
 
 *For reference, these instructions are taken from the following documentation: https://www.postgresql.org/download/*
 
