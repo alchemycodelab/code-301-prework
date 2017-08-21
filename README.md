@@ -182,7 +182,7 @@ Since that's rather verbose, we can set it as an alias!
 
 `alias pgstart='pg_ctl -D /usr/local/var/postgres/ -l /usr/local/var/postgres/server.log start'`
 
-However, aliases are temporary. You would need to set that alias each time you opened up a new terminal window. Instead, we can tell our system to always set that alias whenever a terminal is opened. Find your **.bashrc** or **.bash_profile** file - it will probably be in your home (~) directory. Run `atom .bashrc` or `atom .bash_profile` to open it up, then on a new line, paste this in:
+However, aliases are temporary. You would need to set that alias each time you opened up a new terminal window. Instead, we can tell our system to always set that alias whenever a terminal is opened. Find your **.bashrc** or **.bash_profile** file - it will probably be in your home (~) directory. Run `vscode .bashrc` or `vscode .bash_profile` to open your bash file with VSCode, then on a new line, paste this in:
 
 `alias pgstart='pg_ctl -D /usr/local/var/postgres/ -l /usr/local/var/postgres/server.log start'`
 
