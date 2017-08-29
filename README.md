@@ -174,26 +174,13 @@ To install PostgreSQL, open your Terminal, and enter:
 
 This will create a user for you, that matches your logged in user account. Run the `whoami` command in the terminal if you aren't sure what that is. This user has a blank password set as the default.
 
-*You will need to run this command whenever you first start your computer and open up the terminal in order to start your Postgres server:*
-
-`pg_ctl -D /usr/local/var/postgres/ -l /usr/local/var/postgres/server.log start`
-
-Since that's rather verbose, we can set it as an alias!
-
-`alias pgstart='pg_ctl -D /usr/local/var/postgres/ -l /usr/local/var/postgres/server.log start'`
-
-However, aliases are temporary. You would need to set that alias each time you opened up a new terminal window. Instead, we can tell our system to always set that alias whenever a terminal is opened. Find your **.bashrc** or **.bash_profile** file - it will probably be in your home (~) directory. Run `vscode .bashrc` or `vscode .bash_profile` to open your bash file with VSCode, then on a new line, paste this in:
-
-`alias pgstart='pg_ctl -D /usr/local/var/postgres/ -l /usr/local/var/postgres/server.log start'`
-
-Now, whenever you first start up your computer, you just have to run `pgstart` to get your Postgres server running.
-
-If, for some reason, the `pgstart` command is not available when you open a new window, you should be able to run `source .bashrc` or `source .bash_profile` (wherever you put the alias), then `pgstart` should be available.
+Run this command: 
+`brew services start postgresql`
 
 #### ALL USERS: Startup and Create some databases
 
 1. Login to psql.
-  - For Mac, run your new `pgstart` alias, then type `psql`.
+  - For Mac, type `psql`.
     - If the response is, "Can't find database *yourUserName*", run `createdb -U yourUserName`, then run `psql` again.
   - For Windows, open up your psql program (SQL Shell)
   - For Linux, run `sudo -u postgres psql`
