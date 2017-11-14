@@ -208,7 +208,7 @@ You will be able to complete this assignment once the course Slack channel has b
 
 ## Codecademy: jQuery (Canvas assignment)
 
-Complete all of the free portions of the Codecademy course in jQuery. The Canvas submission is a screenshot indicating that the course is complete.
+Complete all of the free portions of the [Codecademy course on jQuery](https://www.codecademy.com/en/tracks/jquery). The Canvas submission is a screenshot indicating that the course is complete.
 
 
 ---
