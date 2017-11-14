@@ -30,7 +30,7 @@ If you haven't already, install [VSCode](https://code.visualstudio.com/). If you
 
 [VSCode's documentation](https://code.visualstudio.com/docs) is top-notch. Review it now to familiarize yourself with the basics. Make sure you're looking at the docs for the latest version. If you find that you are unable to call `code` in the terminal, you can enable shell commands through VSCOde by first opening it through your graphical desktop interface, and typeing `CMD + SHIFT + P` (or `CTRL + SHIFT + P` on Windows/Linux), and then type Shell Commands and selecting `Shell Command: Install 'code' in command in PATH` in the drop-down menu.
 
-### ☐ Install Ryver (if you haven't already)
+### ☐ Install Ryver (if you haven't already) and connect with your classmates (Canvas assignment)
 
 We use an app called Ryver to share resources, chat, make announcements and collaborate. You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app. Once you have joined, add a nice profile picture of your lovely face. Then say hello in your class channel, and introduce yourself.
 
@@ -201,10 +201,6 @@ If, for some reason, the `pgstart` command is not available when you open a new 
 3. Enter the following command: `CREATE DATABASE kilovolt;`. *Note the semicolon. If you forget it, your prompt will go to a new line and look like* `postgres-#`. *This means you have an unterminated command and the prompt will just keep going to new lines until you enter a semicolon*.
   - You should receive the feedback "CREATE DATABASE".
 4. Verify that your database was created by running `\l` (no semicolon). You should see a list of databases, including `kilovolt`. You should be able to connect to a database by running `\c DATABASE_NAME`, e.g. `\c kilovolt`.
-
-## Connect With Your Classmates (Canvas assignment)
-
-You will be able to complete this assignment once the course Slack channel has been created, which typically happens 7-14 days before the first day of class. See the assignment in Canvas for more details.
 
 ## Codecademy: jQuery (Canvas assignment)
 
