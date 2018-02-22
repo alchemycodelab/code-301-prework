@@ -127,7 +127,7 @@ Complete all of the free portions of the [Codecademy course on jQuery](https://w
 
 ## Sign up for Code Wars
 
-Part of growing as a programmer is to practice, practice, practice. Throughout this course, there will be weekly Code Wars challenges. You are also expected to complete 15 pts worth of kata each week. The weekly challenge will be posted Monday morning and will be due by Friday night.
+Part of growing as a programmer is to practice, practice, practice. Throughout this course, there will be weekly Code Wars challenges. You are also expected to complete 10 pts worth of kata each week. The weekly challenge will be posted Monday morning and will be due by Friday morning.
 
 For now, sign up for Code Wars at [Code Wars](https://www.codewars.com/) and familiarize yourself with the interface: specifically, understand where to find your profile to see how many points (aka honor) you have and how to find challanges to work on (aka Kata).
 
