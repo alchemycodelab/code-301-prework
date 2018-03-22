@@ -198,6 +198,9 @@ Part of growing as a programmer is to practice, practice, practice. Throughout t
 
 For now, sign up for Code Wars at [Code Wars](https://www.codewars.com/) and familiarize yourself with the interface: specifically, understand where to find your profile to see how many points (aka honor) you have and how to find challanges to work on (aka Kata).
 
+## Git Tutorial
+
+If you have not had much practice with git and GitHub, we recommend going through [this tutorial](https://www.udemy.com/git-started-with-github/).
 
 ---
 
