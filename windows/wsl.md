@@ -1,7 +1,6 @@
 # Windows with the WSL
 
-This doc assumes you are using WSL in the way described in the 201 prework, or in [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup)
-
+This doc assumes you are using WSL in the way described in [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup)
 
 ## Install Heroku CLI
 

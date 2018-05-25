@@ -1,13 +1,6 @@
 # Bootcamp: Part 2
 ## Intermediate Software Development
 
-<!--
-Note that these tasks have a corresponding assignment to submit in Canvas, but be aware that at the time you receive the link to this pre-work that the Canvas course may not yet be published, depending upon the timing of Admissions processes and when class begins. Typically, Canvas courses are published 5-7 days before class begins.
-
-* For students continuing from Bootcamp: Part One, follow [the steps in CONTINUING.md](CONTINUING.md)
-* For students testing into Bootcamp: Part Two, follow [the steps in NEW.md](NEW.md)
--->
-
 To get your laptop and yourself ready for the start of Bootcamp II, there are a series of pre-work tasks to complete.
 
 Before completing the tasks in this document, ensure that you have completed all of the installation tasks in the [Bootcamp I](https://github.com/alchemycodelab/bootcamp-one-prework).
@@ -26,10 +19,6 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 ## Code Assignments
 
-### jQuery
-
-Complete the official introductory [jQuery Course](https://try.jquery.com). The Canvas submission is a screenshot indicating that the course is complete.
-
 ### Code Wars
 
 Throughout Bootcamp I you will be completing a series of assignments at [Code Wars](https://www.codewars.com).
@@ -37,6 +26,10 @@ Throughout Bootcamp I you will be completing a series of assignments at [Code Wa
 1. If you do not already have one, sign up for a user account at Code Wars.
 2. Complete [this kata](https://www.codewars.com/kata/check-the-exam).
 3. In the corresponding Canvas assignment, submit a link to your Code Wars profile page and copy/paste your solution code into the text box.
+
+### jQuery
+
+By the end of the first week, you will need to complete the official introductory [jQuery Course](https://try.jquery.com). The Canvas submission is a screenshot indicating that the course is complete.
 
 ### Setup of Your Laptop Dev Environment (Canvas assignment)
 
