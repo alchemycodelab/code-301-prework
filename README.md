@@ -1,4 +1,4 @@
-# Bootcamp: Part 2
+# <img src="acl-logo.PNG" style="vertical-align:middle" width="50"> Bootcamp: Part 2
 ## Intermediate Software Development
 
 To get your laptop and yourself ready for the start of Bootcamp II, there are a series of pre-work tasks to complete.
