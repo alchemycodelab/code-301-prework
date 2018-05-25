@@ -29,7 +29,7 @@ Throughout Bootcamp I you will be completing a series of assignments at [Code Wa
 
 ### jQuery
 
-By the end of the first week, you will need to complete the official introductory [jQuery Course](https://try.jquery.com). The Canvas submission is a screenshot indicating that the course is complete.
+While not required by the first class, feel free to get started on this assignment, due by the end of the first week. You will need to complete the official introductory [jQuery Course](https://try.jquery.com). The Canvas submission is a screenshot indicating that the course is complete.
 
 ### Setup of Your Laptop Dev Environment (Canvas assignment)
 
