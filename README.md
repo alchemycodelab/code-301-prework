@@ -39,6 +39,6 @@ We will be using [Vue.js](https://vuejs.org/), feel free to have a look at the d
 
 This next section will walk you through setting up your local environment. There is also a related canvas assignment that you need to turn in for this. 
 
-When you are done installing both the Heroku CLI and postgres, make sure to verify them again one directly after the other so that both of the output message are on your terminal screen at the same time. Once they are both on your screen, take a screen single screen shot and use that as your submission for your canvas assignment.
+When you are done installing both the Heroku CLI and postgres, make sure to verify them again one directly after the other so that both of the output message are on your terminal screen at the same time.
 
 Click [Here](./setup_local_env.md) to move to the next section!
