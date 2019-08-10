@@ -1,4 +1,4 @@
-# <img src="acl-logo.PNG" style="vertical-align:middle" width="50"> Bootcamp: Part 2
+# <img src="acl-logo.PNG" style="vertical-align:middle" width="50"> Bootcamp II
 ## Intermediate Software Development
 
 To get your laptop and yourself ready for the start of Bootcamp II, there are a series of pre-work tasks to complete.
@@ -21,7 +21,7 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 ### Code Wars
 
-Throughout Bootcamp I you will be completing a series of assignments at [Code Wars](https://www.codewars.com).
+Throughout Bootcamp II you will be completing a series of assignments at [Code Wars](https://www.codewars.com).
 
 1. If you do not already have one, sign up for a user account at Code Wars.
 2. Complete [this kata](https://www.codewars.com/kata/check-the-exam).
