@@ -27,14 +27,6 @@ Throughout Bootcamp I you will be completing a series of assignments at [Code Wa
 2. Complete [this kata](https://www.codewars.com/kata/check-the-exam).
 3. In the corresponding Canvas assignment, submit a link to your Code Wars profile page and copy/paste your solution code into the text box.
 
-### jQuery
-
-While not required by the first class, feel free to get started on this assignment, due by the end of the first week. You will need to complete the official introductory [jQuery Course](http://try.jquery.com). The Canvas submission is a screenshot indicating that the course is complete.
-
-### Vue.js
-
-We will be using [Vue.js](https://vuejs.org/), feel free to have a look at the docs!
-
 ### Setup of Your Laptop Dev Environment (Required Canvas assignment)
 
 This next section will walk you through setting up your local environment. There is also a related canvas assignment that you need to turn in for this. 
