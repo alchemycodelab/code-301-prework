@@ -1,13 +1,11 @@
 # <img src="acl-logo.PNG" style="vertical-align:middle" width="50"> Foundations II
 ## Intermediate Software Development
 
-To get your laptop and yourself ready for the start of Foundations II, there are a series of pre-work tasks to complete.
+To get your laptop and yourself ready for the start of Foundations II, there are a series of set-up tasks to complete.
 
-Before completing the tasks in this document, ensure that you have completed all of the installation tasks in the [Foundations I](https://github.com/alchemycodelab/bootcamp-one-prework).
+Before completing the tasks in this document, ensure that you have completed all of the installation tasks in the [Computer Set-up Repo](https://github.com/alchemycodelab/computer-setup) from the start of the Program.
 
-In particular, if you have tested in to Foundations II and did not take Foundations I, be especially attentive to the git and GitHub portion of the Foundations I prework. Note that your future classmates who took Foundations I will already have a month of practice using git and GitHub; it is a common area of challenge in Foundations II for students who tested in to the course. 
-
-Note that the tasks below have a corresponding assignment to submit in your Canvas course, but be aware that at the time you receive the link to this pre-work that the Canvas course may not yet be published, depending upon the timing of Admissions processes and when class begins. Typically, Canvas courses are published 5-7 days before class begins.
+In particular, if you have tested in to Foundations II and did not take Foundations I, before completing the tasks in this document ensure that you have completed all of the installation tasks in the [Computer Set-up Repo](https://github.com/alchemycodelab/computer-setup). Also be especially attentive to the git and GitHub portion of the Foundations I prework. Note that your future classmates who took Foundations I will already have a month of practice using git and GitHub; it is a common area of challenge in Foundations II for students who tested in to the course. 
 
 ### Setup of Your Laptop Dev Environment (Required Canvas assignment)
 
